@@ -1,0 +1,26 @@
+.container{
+    text-align: center;
+    background:linear-gradient(111.81867765325308deg, rgba(136, 156, 118,1) 6.140625%,rgb(57, 117, 101) 53.06250000000001%,rgb(19, 20, 35) 95.51562499999999%);
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 4px;
+    
+}
+
+.d_flex{
+    margin-top: 20px;
+    justify-content: center;
+    text-align: center;
+    display:flex;
+}
+
+.buttons{
+     justify-content: center;
+     display: flex;
+     
+}
+
+body{
+    padding: 20px;
+}

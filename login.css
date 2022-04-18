@@ -1,0 +1,57 @@
+body{
+    background-image: linear-gradient(to top,rgba(185, 171, 171, 0.8),rgba(185, 171, 171, 0.8)),url(./img/UMAT-PROJECT.jpeg);
+    justify-content: center;
+    text-align: center;
+    display: grid;
+    background-size: cover;
+}
+
+.container{
+    border: 2px solid rgb(37, 39, 34);;
+    height: 430px;
+    width: 350px;
+    padding-top: 10px;
+    margin-top: 100px;
+    background-image: linear-gradient(to top,rgba(33, 31, 31, 0.8),rgba(46, 43, 43, 0.8)),url(./img/logo.png);
+    color: aliceblue;
+    background-size: 200px;
+    border-radius: 10px;
+  
+}
+
+.form{
+    font-size: 23px;
+}
+
+h2{
+    border: 2px solid rgb(37, 39, 34);
+    height: 50px;
+    width: 345px;
+    margin-top: -10px;
+    padding-top: 8px;
+    color: black;
+    background-color: beige;
+    margin-left: 0px;
+    border-radius: 5px;
+}
+
+input{
+   height: 40px;
+   width: 300px;
+   border: 2px solid rgb(37, 39, 34);;
+   border-radius: 5px;
+}
+
+button{
+    width: 100px;
+    height: 35px;
+    margin-top: 20px;
+    font-size: 20px;
+    border-radius: 10px;
+}
+
+button:hover{
+    background-color: rgb(186, 186, 148);
+    color: black;
+    border-radius: 5px;
+}

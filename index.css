@@ -1,0 +1,332 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+header{
+  display: flex;
+  height:150px;
+  justify-content:flex-start;
+  background-image: linear-gradient(to top,rgba(243, 240, 240, 0.8),rgba(247, 242, 242, 0.8)),url(./img/UMAT-PROJECT.jpeg);
+  justify-content: center;
+}
+
+
+.wrapper{
+    border: 2px solid rgb(11, 189, 11); 
+     
+}
+
+.container{
+   border: 1px solid rgb(11, 189, 11);
+   height: 1500px;
+   margin-top: 30px;
+   margin-bottom: 30px;
+}
+
+h1{
+   font-weight: bolder;
+   font-size: 25px;
+   padding-top: 5px;
+   
+}
+
+.f1{
+    border: 1px solid rgb(11, 189, 11);
+    height: 50px; 
+    margin-top: -2px;
+    font-weight: bolder;
+    font-size: 25px;
+    word-spacing: 15px;
+    letter-spacing: 1px;
+    background-color:rgb(44, 79, 64) ;
+    color: white;
+    margin-left: -13px;
+    margin-right: -13px;
+    text-align: center;
+    
+}
+
+.at1{
+    height: 100px; 
+    margin-top: -16px;
+    font-weight:500;
+    font-size: 24px;
+    color:black;
+    margin-left: -13px;
+    margin-right: -13px;
+    line-height: 50px;
+    padding-left: 20px;
+    transition: 0.5s ease-in-out;
+    
+}
+
+.at1:hover{
+    background: linear-gradient(to top,rgb(0,0,0,0.5),rgb(0,0,0,0.5));
+    color: white;
+}
+
+
+.f2{
+    border: 1px solid rgb(11, 189, 11);
+    height: 50px; 
+    margin-top: -16px;
+    font-weight: bolder;
+    font-size: 25px;
+    word-spacing: 15px;
+    letter-spacing: 1px;
+    background-color:rgb(44, 79, 64) ;
+    color: white;
+    margin-left: -13px;
+    margin-right: -13px;
+    text-align: center;
+}
+
+.at2{
+    border: 1px solid rgb(11, 189, 11);;
+    height: 250px; 
+    margin-top: -16px;
+    font-weight:500;
+    font-size: 24px;
+    color:black;
+    margin-left: -13px;
+    margin-right: -13px;
+    line-height: 50px;
+    padding-left: 20px;
+    transition: 4s ease-in-out;
+}
+
+.at2:hover{
+    background: linear-gradient(to top,rgb(0,0,0,0.5),rgb(0,0,0,0.5));
+    color: white;
+}
+
+
+.f3{
+    border: 1px solid rgb(11, 189, 11);
+    height: 50px; 
+    margin-top: -16px;
+    font-weight: bolder;
+    font-size: 25px;
+    word-spacing: 15px;
+    letter-spacing: 1px;
+    background-color:rgb(44, 79, 64);
+    color: white;
+    margin-left: -13px;
+    margin-right: -13px;
+    text-align: center;
+}
+
+.at3{
+    border: 1px solid rgb(11, 189, 11);;
+    height: 150px; 
+    margin-top: -16px;
+    font-weight:500;
+    font-size: 24px;
+    color:black;
+    margin-left: -13px;
+    margin-right: -13px;
+    line-height: 50px;
+    padding-left: 20px;
+    transition: 0.4s ease-in-out;
+}
+
+.at3:hover{
+    background: linear-gradient(to top,rgb(0,0,0,0.5),rgb(0,0,0,0.5));
+    color: white;
+}
+
+
+.f4{
+    border: 1px solid rgb(11, 189, 11);
+    height: 50px; 
+    margin-top: -16px;
+    font-weight: bolder;
+    font-size: 25px;
+    word-spacing: 15px;
+    letter-spacing: 1px;
+    background-color:rgb(44, 79, 64);
+    color: white;
+    margin-left: -13px;
+    margin-right: -13px;
+    text-align: center;
+}
+
+.at4{
+    border: 1px solid rgb(11, 189, 11);;
+    height: 150px; 
+    margin-top: -16px;
+    font-weight:500;
+    font-size: 24px;
+    color:black;
+    margin-left: -13px;
+    margin-right: -13px;
+    line-height: 50px;
+    padding-left: 20px;
+    transition: 0.4s ease-in-out;
+}
+
+.at4:hover{
+    background: linear-gradient(to top,rgb(0,0,0,0.5),rgb(0,0,0,0.5));
+    color: white;
+}
+
+
+.f5{
+    border: 1px solid rgb(11, 189, 11);
+    height: 50px; 
+    margin-top: -16px;
+    font-weight: bolder;
+    font-size: 25px;
+    word-spacing: 15px;
+    letter-spacing: 1px;
+    background-color:rgb(44, 79, 64);
+    color: white;
+    margin-left: -13px;
+    margin-right: -13px;
+    text-align: center;
+}
+
+.at5{
+    border: 1px solid rgb(11, 189, 11);;
+    height: 100px; 
+    margin-top: -16px;
+    font-weight:500;
+    font-size: 24px;
+    color:black;
+    margin-left: -13px;
+    margin-right: -13px;
+    line-height: 50px;
+    padding-left: 20px;
+    transition: 0.4s ease-in-out;
+}
+
+.at5:hover{
+    background: linear-gradient(to top,rgba(0,0,0,0.5),rgba(0,0,0,0.5));
+    color: white;
+}
+
+
+.f6{
+    border: 1px solid rgb(11, 189, 11);
+    height: 50px; 
+    margin-top: -16px;
+    font-weight: bolder;
+    font-size: 25px;
+    word-spacing: 15px;
+    letter-spacing: 1px;
+    background-color:rgb(44, 79, 64);
+    color: white;
+    margin-left: -13px;
+    margin-right: -13px;
+    text-align: center;
+}
+
+.at6{
+    border: 1px solid rgb(11, 189, 11);;
+    height: 400px; 
+    margin-top: -16px;
+    font-weight:500;
+    font-size: 24px;
+    color:black;
+    margin-left: -13px;
+    margin-right: -13px;
+    line-height: 50px;
+    padding-left: 20px;
+    transition: 0.4s ease-in-out;
+}
+
+.at6:hover{
+    background: linear-gradient(to top,rgb(0,0,0,0.5),rgb(0,0,0,0.5));
+    color: white;
+}
+
+
+.f7{
+    border: 1px solid rgb(11, 189, 11);
+    height: 50px; 
+    margin-top: -16px;
+    font-weight: bolder;
+    font-size: 25px;
+    word-spacing: 15px;
+    letter-spacing: 1px;
+    background-color:rgb(44, 79, 64);
+    color: white;
+    margin-left: -13px;
+    margin-right: -13px;
+    text-align: center;
+}
+
+.at7{
+    border: 1px solid rgb(11, 189, 11);;
+    height: 400px; 
+    margin-top: -16px;
+    font-weight:500;
+    font-size: 24px;
+    color:black;
+    margin-left: -13px;
+    margin-right: -13px;
+    line-height: 50px;
+    padding-left: 20px;
+    transition: 0.3s ease-in-out;
+}
+
+.at7:hover{
+    background: linear-gradient(to top,rgb(0,0,0,0.5),rgb(0,0,0,0.5));
+    color: white;
+}
+
+
+.update{
+    padding-top: 400px;
+    padding-bottom: 10px;
+    width: 800px;
+}
+
+h4{
+    text-align: center;
+}
+
+.footer{
+    padding-top: 20px;
+    background-color: rgb(44, 79, 64);
+    color: white;
+    text-align: center;
+}
+
+.copyright{
+    text-align: center;
+    margin-bottom: -10px;
+    padding-bottom: 20px;
+}
+
+.News{
+    width: 470px;
+    float: right;
+    margin-top: -585px;
+    padding-left: 10px;
+    height: 200px;
+}
+
+
+a{
+    text-decoration: none;
+    color: black;
+    transition: 0.3s ease-in-out;
+    
+}
+
+.login{
+    padding-left: 600px;
+}
+
+.Staff_list{
+     color: white;
+     font-size: 25px;
+     font-weight: bolder;
+     float: left;
+     padding-right: 400px;
+     margin-right: 50px;
+    
+}
+
